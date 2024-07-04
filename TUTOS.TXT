@@ -1,0 +1,5 @@
+PARA CLONAR BRANCH - DEV-MASTER USE O COMANDO ::
+git clone --branch dev-master https://github.com/dumprino/enfoshopping.git .
+// o ponto no fanal é para clonar dentro do diretório atual.
+
+git clone --branch --ipv4 dev-master https://github.com/dumprino/enfoshopping.git .
