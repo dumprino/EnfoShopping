@@ -5,3 +5,10 @@
 
 * Instalar dependencias do PHP
 * Composer install
+
+* configurar corretamente o arquivo .env
+* duplica-lo
+* Criar a chave KEY
+
+* Rodar o projeto para o primeiro teste 
+** command:: php artisan serve
