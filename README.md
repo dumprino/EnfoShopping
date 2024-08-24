@@ -1,2 +1,8 @@
 # enfoshopping
 Projeto Loja vendas e-comerce etc .....
+
+[OBS] - ESTE PROJETO ESTÁ EM TESTES .....
+
+PLATAFORMA E-COMMERCE ENFOSHOPPING - EM TRABALHO DE DESENVOLVIMENTO
+
+AUTOR:: ENDEL NEIVA 
